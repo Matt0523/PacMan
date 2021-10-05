@@ -1,6 +1,6 @@
 # PacMan
 
-Description of project /  How to Run:
+<h1>Description of project /  How to Run:<h1>
 PackMan allows the user to creat as many PackMen as they want using the Add PackMan button then watch them bounce around the screen at random speeds using the Start Button. To restart, simply refresh the page, add the number of PacMan you want and press the start button.
 
 Roadmap of future improvements:
