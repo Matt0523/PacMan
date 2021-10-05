@@ -1,6 +1,6 @@
 # PacMan
 
-<h1>Description of project /  How to Run:</h1>
+<h2>Description of project /  How to Run:</h2>
 <br>
 <p>PackMan allows the user to creat as many PackMen as they want using the Add PackMan button then watch them bounce around the screen at random speeds using the Start Button. To restart, simply refresh the page, add the number of PacMan you want and press the start button.</p>
 <br>
@@ -11,7 +11,7 @@
 <li>PacMan bounce off eachother when they make contact</li>
 </ul>
 
-License information:
+<h2>License information:</h2>
 The MIT License (MIT)
 
 Copyright (c) 2020-2021 Mark Otto
